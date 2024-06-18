@@ -1,8 +1,8 @@
 LINE,PARAMETER,KEY,VALUE
 2,Model Description/User Notes,usertxt,Westfork Kickapoo
 3,Simulation Name,name,WFK23
-4,Input Directory Path,inputdir,D:\Ben_wd\THESIS\heatsource\post_defense\calibration\ManningsN\inputs\ 
-5,Output Directory Path,outputdir,D:\Ben_wd\THESIS\heatsource\post_defense\calibration\ManningsN\outputs\ 
+4,Input Directory Path,inputdir,d:\Ben_wd\THESIS\heatsource\post_defense\calibration\ManningsN\hypercube_rollingaveragewidth\runsWFK_100m{new_folder_name}\inputs\
+5,Output Directory Path,outputdir,d:\Ben_wd\THESIS\heatsource\post_defense\calibration\ManningsN\hypercube_rollingaveragewidth\runsWFK_100m{new_folder_name}\outputs\
 6,Stream Length (kilometers),length,18.5
 7,Output Stream Kilometers,outputkm,all
 8,Data Start Date (mm/dd/yyyy),datastart,7/1/2023
