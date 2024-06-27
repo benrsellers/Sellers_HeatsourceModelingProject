@@ -11,7 +11,7 @@ LINE,PARAMETER,KEY,VALUE
 11,Data End Date (mm/dd/yyyy),dataend,7/31/2023
 12,Flush Initial Condition (days),flushdays,0
 13,Time Offset From UTC (hours),offset,-5
-14,Model Time Step (minutes),dt,0.75
+14,Model Time Step (minutes),dt,0.5
 15,Model Distance Step (meters),dx,100
 16,Longitudinal Stream Sample Distance (meters),longsample,100
 17,Boundary Condition Input File Name,bcfile,WFK23_boundary.csv

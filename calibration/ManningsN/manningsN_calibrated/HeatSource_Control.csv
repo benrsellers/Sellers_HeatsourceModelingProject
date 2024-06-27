@@ -11,13 +11,13 @@ LINE,PARAMETER,KEY,VALUE
 11,Data End Date (mm/dd/yyyy),dataend,7/31/2023
 12,Flush Initial Condition (days),flushdays,0
 13,Time Offset From UTC (hours),offset,-5
-14,Model Time Step (minutes),dt,0.75
+14,Model Time Step (minutes),dt,0.5
 15,Model Distance Step (meters),dx,100
 16,Longitudinal Stream Sample Distance (meters),longsample,100
 17,Boundary Condition Input File Name,bcfile,WFK23_boundary.csv
 18,Tributary Inflow Sites,inflowsites,13
 19,Tributary Inflow Input File Name,inflowinfiles,"hayestrib.csv, boydtrib.csv, bloomtrib.csv, halltrib.csv, yodertrib.csv, thnorthtrib.csv, smarthallowtrib.csv, mayertrib.csv, seasbranchtrib.csv, riverrdtrib.csv, hwy82uptrib.csv, hwy82downtrib.csv, rockyruntrib.csv"
-20,Tributary Inflow Model kilometers,inflowkm,"17.7, 17.1, 15.8, 14.5, 13.7, 11.8, 10.6, 10.1, 8.3, 7.8, 2.6, 2.3, 1.4"
+20,Tributary Inflow Model kilometers,inflowkm,"17.8, 17.2, 15.9, 14.6, 13.8, 11.8, 10.6, 10.2, 8.3, 7.8, 2.7, 2.4, 1.4"
 21,Accretion Input File Name,accretionfile,WFK23_accretion_notrib.csv
 22,Meteorological Data Sites,metsites,1
 23,Meteorological Data Input File Name,metfiles,WFK23_met.csv
