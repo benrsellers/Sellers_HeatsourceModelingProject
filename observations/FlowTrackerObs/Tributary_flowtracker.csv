@@ -1,0 +1,14 @@
+﻿Name,trib_file,Lat,Lon,Name,Datetime,Width,Area,Discharge,discharge_uncertaintyIVE_perc,Depth,Velocity,velocity_uncertaintyIVE_perc
+Sb_conf,seasbranchtrib.csv,43.5951,-90.78204,Sb.conf,6/23/2023 11:39,4.43,0.747,0.274,7.384,0.169,0.367,6.7
+Wf_bloomtrib,bloomtrib.csv,43.64399,-90.78359,Wf.bloomtrib,6/28/2023 11:45,1.09,0.089,0.001,53.218,0.082,0.009,51.58
+Wf_boydtrib,boydtrib.csv,43.65397,-90.77888,Wf.boydtrib,6/22/2023 15:03,2.1,0.383,0.042,6.521,0.182,0.109,5.565
+Wf_haLl,halltrib.csv,43.6365,-90.76757,Wf.haLl,6/23/2023 9:28,2.42,0.29,0.032,6.091,0.12,0.109,3.84
+Wf_hayes_trib,hayestrib.csv,43.656575,-90.783876,Wf.hayes.trib,6/22/2023 13:08,2.8,0.38,0.058,9.486,0.136,0.153,4.984
+Wf_hwy82tribup,hwy82uptrib.csv,43.563881,-90.762369,Wf.hwy82trib,5/31/2023 15:28,3.6,0.471,0.047,8.564,0.131,0.099,7.546
+Wf_mayertrib,mayertrib.csv,43.6086,-90.77634,Wf.mayertrib,6/28/2023 12:47,1.12,0.099,0.008,14.359,0.088,0.083,12.252
+Wf_riverrd_trib,riverrdtrib,43.59145,-90.77842,Wf.riverrd.trib,6/23/2023 8:35,1.7,0.169,0.035,10.62,0.099,0.207,9.234
+Wf_smrthlw_trb,smarthallowtrib.csv,43.610922,-90.781018,Wf.smrthlw.trb,6/1/2023 8:10,0.53,0.04,0.002,16.62,0.075,0.056,8.55
+Wf_thnorth_trib,thnorthtrib.csv,43.62015,-90.779782,Wf.thnorth.trib,6/1/2023 8:44,0.9,0.096,0.015,12.193,0.107,0.152,10.038
+WF_yodertrib,yodertrib.csv,43.629955,-90.770427,Wf.yodertribdown,7/19/2023 9:05,1.8,0.214,0.03,17.056,0.119,0.139,16.036
+WF_hwy82tribDOWN,hwy82downtrib.csv,43.561268,-90.762898,WF_hwy82tribDOWN,8/3/2023 9:05,,,0.0153,,,,
+Wf_rockyrun,rockyruntrib.csv,43.56007,-90.75495,Wf.rockyrun,5/31/2023 14:11,3.94,1.208,0.082,6.045,0.307,0.068,4.314
