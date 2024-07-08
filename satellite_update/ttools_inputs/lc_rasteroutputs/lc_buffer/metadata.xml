@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20240708</CreaDate><CreaTime>14140000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\PolygonToRaster" Date="20240708" Time="141400">PolygonToRaster raster_merge4 TTools D:\Ben_wd\THESIS\heatsource\post_defense\satellite_update\ttools_inputs\lc_rasteroutputs\lc_buffer "Cell center" priority 1 BUILD</Process></lineage></DataProperties></Esri></metadata>

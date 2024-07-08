@@ -43,7 +43,7 @@ from collections import defaultdict
 
 # ----------------------------------------------------------------------
 # Start Fill in Data
-nodes_fc = r"D:\Ben_wd\THESIS\heatsource\post_defense\satellite_update\nodes2.shp"
+nodes_fc = r"D:\Ben_wd\THESIS\heatsource\post_defense\satellite_update\nodes_testing.shp"
 
 rb_fc = r"D:\Ben_wd\THESIS\heatsource\post_defense\satellite_update\WFK_rb_sat.shp"
 lb_fc = r"D:\Ben_wd\THESIS\heatsource\post_defense\satellite_update\WFK_lb_sat.shp"

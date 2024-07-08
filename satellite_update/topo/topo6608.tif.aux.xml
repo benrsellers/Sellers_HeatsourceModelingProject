@@ -1,0 +1,13 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>topo6608</Description>
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">441.77514648438</MDI>
+      <MDI key="STATISTICS_MEAN">308.75495138079</MDI>
+      <MDI key="STATISTICS_MINIMUM">188.91999816895</MDI>
+      <MDI key="STATISTICS_STDDEV">50.868509194607</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">98.31</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

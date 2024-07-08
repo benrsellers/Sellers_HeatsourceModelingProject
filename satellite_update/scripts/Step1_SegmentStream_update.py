@@ -65,7 +65,7 @@ node_dx = 100
 cont_stream_km = True
 checkDirection = True
 z_raster = r"D:\Ben_wd\THESIS\heatsource\Lukens\ModelRuns\May2023_lidarLCcode\tif\topo6608"
-nodes_fc = r"D:\Ben_wd\THESIS\heatsource\post_defense\satellite_update\nodes2.shp"
+nodes_fc = r"D:\Ben_wd\THESIS\heatsource\post_defense\satellite_update\nodes_testing.shp"
 # End Fill in Data
 # ----------------------------------------------------------------------
 
