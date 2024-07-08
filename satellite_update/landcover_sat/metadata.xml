@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata xml:lang="en"><Esri><CreaDate>20240617</CreaDate><CreaTime>16531600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Conversion Tools.tbx\PolygonToRaster" Date="20240617" Time="165316">PolygonToRaster lc_raster TTools D:\Ben_wd\THESIS\heatsource\WestFork\ModelRuns\Hayes\ttools_update\satellite_update\landcover_sat CELL_CENTER priority 1</Process></lineage></DataProperties></Esri></metadata>
