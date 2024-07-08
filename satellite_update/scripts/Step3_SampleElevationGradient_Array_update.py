@@ -47,7 +47,7 @@ from collections import defaultdict
 
 # ----------------------------------------------------------------------
 # Start Fill in Data
-nodes_fc = r"D:\Ben_wd\THESIS\heatsource\WestFork\ModelRuns\Hayes\ttools_update\satellite_update\nodes.shp"
+nodes_fc = r"D:\Ben_wd\THESIS\heatsource\post_defense\satellite_update\nodes2.shp"
 searchCells = 4
 smooth_flag = True
 z_raster = r"D:\Ben_wd\THESIS\heatsource\WestFork\tif\topo6608"

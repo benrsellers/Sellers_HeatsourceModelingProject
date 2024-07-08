@@ -59,13 +59,13 @@ env.overwriteOutput = True
 
 # ----------------------------------------------------------------------
 # Start Fill in Data
-streamline_fc = r"D:\Ben_wd\THESIS\heatsource\TToolsWFKinputs\shp\centerline.shp"
+streamline_fc = r"D:\Ben_wd\THESIS\heatsource\post_defense\satellite_update\WFK_centerline_sat.shp"
 sid_field = "Id"
 node_dx = 100
 cont_stream_km = True
 checkDirection = True
 z_raster = r"D:\Ben_wd\THESIS\heatsource\Lukens\ModelRuns\May2023_lidarLCcode\tif\topo6608"
-nodes_fc = r"D:\Ben_wd\THESIS\heatsource\WestFork\shp\nodes.shp"
+nodes_fc = r"D:\Ben_wd\THESIS\heatsource\post_defense\satellite_update\nodes2.shp"
 # End Fill in Data
 # ----------------------------------------------------------------------
 

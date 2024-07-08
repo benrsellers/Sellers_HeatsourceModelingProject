@@ -43,9 +43,10 @@ from collections import defaultdict
 
 # ----------------------------------------------------------------------
 # Start Fill in Data
-nodes_fc = r"D:\Ben_wd\THESIS\heatsource\WestFork\ModelRuns\Hayes\ttools_update\shp\nodes.shp"
-rb_fc = r"D:\Ben_wd\THESIS\heatsource\WestFork\ModelRuns\Hayes\ttools_update\shp\WFK_rb.shp"
-lb_fc = r"D:\Ben_wd\THESIS\heatsource\WestFork\ModelRuns\Hayes\ttools_update\shp\WFK_lb.shp"
+nodes_fc = r"D:\Ben_wd\THESIS\heatsource\post_defense\satellite_update\nodes2.shp"
+
+rb_fc = r"D:\Ben_wd\THESIS\heatsource\post_defense\satellite_update\WFK_rb_sat.shp"
+lb_fc = r"D:\Ben_wd\THESIS\heatsource\post_defense\satellite_update\WFK_lb_sat.shp"
 overwrite_data = True
 # End Fill in Data
 # ----------------------------------------------------------------------

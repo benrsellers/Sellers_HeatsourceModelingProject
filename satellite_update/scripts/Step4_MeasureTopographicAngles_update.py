@@ -52,12 +52,12 @@ import numpy as np
 
 # ----------------------------------------------------------------------
 # Start Fill in Data
-nodes_fc = r"D:\Ben_wd\THESIS\heatsource\WestFork\ModelRuns\Hayes\ttools_update\satellite_update\nodes.shp"
+nodes_fc = r"D:\Ben_wd\THESIS\heatsource\post_defense\satellite_update\nodes2.shp"
 topo_directions = 2
 searchDistance_max_km = 4
 z_raster = r"D:\Ben_wd\THESIS\heatsource\WestFork\tif\topo6608"
 z_units = "Meters"
-topo_fc = r"D:\Ben_wd\THESIS\heatsource\WestFork\ModelRuns\Hayes\ttools_update\satellite_update\topofc2"
+topo_fc = r"D:\Ben_wd\THESIS\heatsource\WestFork\ModelRuns\Hayes\ttools_update\satellite_update\topofc3"
 block_size = "#" # OPTIONAL defualt to 5
 overwrite_data = True
 # End Fill in Data
