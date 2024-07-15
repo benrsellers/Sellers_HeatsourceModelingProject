@@ -11,7 +11,7 @@ LINE,PARAMETER,KEY,VALUE
 11,Data End Date (mm/dd/yyyy),dataend,8/5/2023
 12,Flush Initial Condition (days),flushdays,0
 13,Time Offset From UTC (hours),offset,-5
-14,Model Time Step (minutes),dt,1
+14,Model Time Step (minutes),dt,0.75
 15,Model Distance Step (meters),dx,100
 16,Longitudinal Stream Sample Distance (meters),longsample,100
 17,Boundary Condition Input File Name,bcfile,WFK23_boundary.csv
@@ -24,8 +24,8 @@ LINE,PARAMETER,KEY,VALUE
 24,Meteorological Data Model kilometers,metkm,0
 25,Include Evaporation Losses From Flow (True/False),calcevap,FALSE
 26,Evaporation Method (Mass Transfer/Penman),evapmethod,MassTransfer
-27,Wind Function Coefficient a,wind_a,3.263830095967746e-09
-28,Wind Function Coefficient b,wind_b,1.3406671733391415e-09
+27,Wind Function Coefficient a,wind_a,3.26E-09
+28,Wind Function Coefficient b,wind_b,1.34E-09
 29,Include Deep Alluvium Temperature (True/False),calcalluvium,FALSE
 30,Deep Alluvium Temperature (Celsius),alluviumtemp,9.158302104
 31,Morphology Input Data File Name,morphfile,WFK23_morphology.csv
