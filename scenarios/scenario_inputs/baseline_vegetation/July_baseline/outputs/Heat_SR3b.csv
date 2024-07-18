@@ -1,0 +1,7 @@
+File Created:,Mon Jul 15 12:22:15 2024
+Heat Source Version:,9.0.0b26
+Simulation Name:,WFK23
+User Text:,Westfork Kickapoo
+Output:,Solar Radiation Flux blocked by Land Cover (watts/square meter)
+""
+Datetime,STREAM_KM,LC_T1_S1,LC_T1_S2,LC_T1_S3,LC_T1_S4,LC_T1_S5,LC_T2_S1,LC_T2_S2,LC_T2_S3,LC_T2_S4,LC_T2_S5,LC_T3_S1,LC_T3_S2,LC_T3_S3,LC_T3_S4,LC_T3_S5,LC_T4_S1,LC_T4_S2,LC_T4_S3,LC_T4_S4,LC_T4_S5,LC_T5_S1,LC_T5_S2,LC_T5_S3,LC_T5_S4,LC_T5_S5,LC_T6_S1,LC_T6_S2,LC_T6_S3,LC_T6_S4,LC_T6_S5,LC_T7_S1,LC_T7_S2,LC_T7_S3,LC_T7_S4,LC_T7_S5,LC_T8_S1,LC_T8_S2,LC_T8_S3,LC_T8_S4,LC_T8_S5,Diffuse_Blocked

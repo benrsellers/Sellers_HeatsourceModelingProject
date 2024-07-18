@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAGA_METADATA>
+  <DATABASE>
+    <FIELDS>
+      <FIELD TYPE="LONGINT">Id</FIELD>
+    </FIELDS>
+  </DATABASE>
+  <SOURCE></SOURCE>
+  <HISTORY saga-version="7.8.2">
+    <TOOL library="shapes_lines" id="8" name="Split Lines at Points">
+      <OPTION type="choice" id="OUTPUT" name="Output" index="1">separate lines</OPTION>
+      <OPTION type="double" id="EPSILON" name="Epsilon">0.000000</OPTION>
+      <INPUT type="shapes" id="LINES" name="Lines">
+        <FILE>D:/Ben_wd/THESIS/heatsource/post_defense/ttools/ttools_inputs/channel_morph/WFK_centerline_sat.shp</FILE>
+      </INPUT>
+      <INPUT type="shapes" id="SPLIT" name="Split Features">
+        <FILE>D:\Ben_wd\THESIS\heatsource\post_defense\shp\reaches_filtered.shp</FILE>
+      </INPUT>
+      <OUTPUT type="shapes" id="INTERSECT" name="Intersection">WFK_centerline_sat [Split: reaches_filtered]</OUTPUT>
+    </TOOL>
+  </HISTORY>
+  <FILE></FILE>
+  <DESCRIPTION></DESCRIPTION>
+  <PROJECTION>
+    <OGC_WKT>PROJCS["NAD_1983_2011_StatePlane_Wisconsin_South_FIPS_4803",GEOGCS["GCS_NAD_1983_2011",DATUM["D_NAD_1983_2011",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Lambert_Conformal_Conic"],PARAMETER["False_Easting",600000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",-90.0],PARAMETER["Standard_Parallel_1",42.73333333333333],PARAMETER["Standard_Parallel_2",44.06666666666667],PARAMETER["Latitude_Of_Origin",42.0],UNIT["Meter",1.0]]</OGC_WKT>
+    <PROJ4>+proj=lcc +a=6378137.000000 +b=6356752.314140 +x_0=600000.0 +y_0=0.0 +lon_0=-90.0 +lat_1=42.73333333333333 +lat_2=44.06666666666667 +lat_0=42.0 +no_defs</PROJ4>
+    <EPSG>-1</EPSG>
+  </PROJECTION>
+</SAGA_METADATA>
