@@ -1,8 +1,8 @@
 LINE,PARAMETER,KEY,VALUE
 2,Model Description/User Notes,usertxt,Westfork Kickapoo
 3,Simulation Name,name,WFK23
-4,Input Directory Path,inputdir,d:\Ben_wd\THESIS\heatsource\post_defense\scenarios\scenario_inputs\sensitivity_analysis\july_allgrassextended_narrow30_2\inputs\
-5,Output Directory Path,outputdir,d:\Ben_wd\THESIS\heatsource\post_defense\scenarios\scenario_inputs\sensitivity_analysis\july_allgrassextended_narrow30_2\outputs\
+4,Input Directory Path,inputdir,d:\Ben_wd\THESIS\heatsource\post_defense\scenarios\scenario_inputs\sensitivity_analysis\july_allgrassextended_narrow30\inputs\
+5,Output Directory Path,outputdir,d:\Ben_wd\THESIS\heatsource\post_defense\scenarios\scenario_inputs\sensitivity_analysis\july_allgrassextended_narrow30\outputs\
 6,Stream Length (kilometers),length,23.5
 7,Output Stream Kilometers,outputkm,all
 8,Data Start Date (mm/dd/yyyy),datastart,7/1/2023
