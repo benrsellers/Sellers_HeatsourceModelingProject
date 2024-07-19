@@ -24,8 +24,8 @@ LINE,PARAMETER,KEY,VALUE
 24,Meteorological Data Model kilometers,metkm,0
 25,Include Evaporation Losses From Flow (True/False),calcevap,FALSE
 26,Evaporation Method (Mass Transfer/Penman),evapmethod,MassTransfer
-27,Wind Function Coefficient a,wind_a,2.700286070516201e-09
-28,Wind Function Coefficient b,wind_b,2.7926471445341127e-09
+27,Wind Function Coefficient a,wind_a,2.97599746877582e-09
+28,Wind Function Coefficient b,wind_b,1.0856966285601732e-09
 29,Include Deep Alluvium Temperature (True/False),calcalluvium,FALSE
 30,Deep Alluvium Temperature (Celsius),alluviumtemp,9.158302104
 31,Morphology Input Data File Name,morphfile,WFK23_morphology.csv
