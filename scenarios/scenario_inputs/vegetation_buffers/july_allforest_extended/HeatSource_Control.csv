@@ -1,13 +1,13 @@
 LINE,PARAMETER,KEY,VALUE
 2,Model Description/User Notes,usertxt,Westfork Kickapoo
 3,Simulation Name,name,WFK23
-4,Input Directory Path,inputdir,D:\Ben_wd\THESIS\heatsource\post_defense\scenarios\scenario_inputs\vegetation_buffers\july_allforest_extended\inputs\
-5,Output Directory Path,outputdir,D:\Ben_wd\THESIS\heatsource\post_defense\scenarios\scenario_inputs\vegetation_buffers\july_allforest_extended\outputs\
+4,Input Directory Path,inputdir,d:\Ben_wd\THESIS\heatsource\post_defense\scenarios\scenario_inputs\vegetation_buffers\july_allforest_extended\inputs\
+5,Output Directory Path,outputdir,d:\Ben_wd\THESIS\heatsource\post_defense\scenarios\scenario_inputs\vegetation_buffers\july_allforest_extended\outputs\
 6,Stream Length (kilometers),length,23.5
 7,Output Stream Kilometers,outputkm,all
 8,Data Start Date (mm/dd/yyyy),datastart,7/1/2023
 9,Modeling Start Date (mm/dd/yyyy),modelstart,7/1/2023
-10,Modeling End Date (mm/dd/yyyy),modelend,7/31/2023
+10,Modeling End Date (mm/dd/yyyy),modelend,7/5/2023
 11,Data End Date (mm/dd/yyyy),dataend,7/31/2023
 12,Flush Initial Condition (days),flushdays,0
 13,Time Offset From UTC (hours),offset,-5

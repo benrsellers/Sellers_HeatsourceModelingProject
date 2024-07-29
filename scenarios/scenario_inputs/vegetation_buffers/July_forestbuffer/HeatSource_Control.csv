@@ -1,8 +1,8 @@
 LINE,PARAMETER,KEY,VALUE
 2,Model Description/User Notes,usertxt,Westfork Kickapoo
 3,Simulation Name,name,WFK23
-4,Input Directory Path,inputdir,D:\Ben_wd\THESIS\heatsource\post_defense\scenarios\July_notopo\inputs\ 
-5,Output Directory Path,outputdir,D:\Ben_wd\THESIS\heatsource\post_defense\scenarios\July_notopo\outputs\ 
+4,Input Directory Path,inputdir,D:\Ben_wd\THESIS\heatsource\post_defense\scenarios\scenario_inputs\vegetation_buffers\July_forestbuffer
+5,Output Directory Path,outputdir,D:\Ben_wd\THESIS\heatsource\post_defense\scenarios\scenario_inputs\vegetation_buffers\July_forestbuffer\outputs\ 
 6,Stream Length (kilometers),length,18.5
 7,Output Stream Kilometers,outputkm,all
 8,Data Start Date (mm/dd/yyyy),datastart,7/1/2023
