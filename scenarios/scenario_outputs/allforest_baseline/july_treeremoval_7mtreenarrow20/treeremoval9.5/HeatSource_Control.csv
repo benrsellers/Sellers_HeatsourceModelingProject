@@ -1,0 +1,41 @@
+LINE,PARAMETER,KEY,VALUE
+2,Model Description/User Notes,usertxt,Westfork Kickapoo
+3,Simulation Name,name,WFK23
+4,Input Directory Path,inputdir,d:\Ben_wd\THESIS\heatsource\post_defense\scenarios\scenario_outputs\allforest_baseline\july_treeremoval_7mtreenarrow20\treeremoval9.5\inputs\
+5,Output Directory Path,outputdir,d:\Ben_wd\THESIS\heatsource\post_defense\scenarios\scenario_outputs\allforest_baseline\july_treeremoval_7mtreenarrow20\treeremoval9.5\outputs\
+6,Stream Length (kilometers),length,23.5
+7,Output Stream Kilometers,outputkm,all
+8,Data Start Date (mm/dd/yyyy),datastart,7/1/2023
+9,Modeling Start Date (mm/dd/yyyy),modelstart,7/1/2023
+10,Modeling End Date (mm/dd/yyyy),modelend,7/31/2023
+11,Data End Date (mm/dd/yyyy),dataend,7/31/2023
+12,Flush Initial Condition (days),flushdays,0
+13,Time Offset From UTC (hours),offset,-5
+14,Model Time Step (minutes),dt,0.75
+15,Model Distance Step (meters),dx,100
+16,Longitudinal Stream Sample Distance (meters),longsample,100
+17,Boundary Condition Input File Name,bcfile,WFK23_boundary.csv
+18,Tributary Inflow Sites,inflowsites,13
+19,Tributary Inflow Input File Name,inflowinfiles,"hayestrib.csv, boydtrib.csv, bloomtrib.csv, halltrib.csv, yodertrib.csv, thnorthtrib.csv, smarthallowtrib.csv, mayertrib.csv, seasbranchtrib.csv, riverrdtrib.csv, hwy82uptrib.csv, hwy82downtrib.csv, rockyruntrib.csv"
+20,Tributary Inflow Model kilometers,inflowkm,"22.8, 22.2, 20.9, 19.6, 18.8, 16.8, 15.6, 15.2, 13.3, 12.8, 7.7, 7.4, 6.4"
+21,Accretion Input File Name,accretionfile,WFK23_accretion_notrib.csv
+22,Meteorological Data Sites,metsites,1
+23,Meteorological Data Input File Name,metfiles,WFK23_met.csv
+24,Meteorological Data Model kilometers,metkm,0
+25,Include Evaporation Losses From Flow (True/False),calcevap,FALSE
+26,Evaporation Method (Mass Transfer/Penman),evapmethod,MassTransfer
+27,Wind Function Coefficient a,wind_a,3.26E-09
+28,Wind Function Coefficient b,wind_b,1.34E-09
+29,Include Deep Alluvium Temperature (True/False),calcalluvium,FALSE
+30,Deep Alluvium Temperature (Celsius),alluviumtemp,9.158302104
+31,Morphology Input Data File Name,morphfile,WFK23_morphology.csv
+32,Land Cover Input Data File Name,lcdatafile,WFK23_lcdata.csv
+33,Land Cover Codes Input File Name,lccodefile,WFK23_lccode.csv
+34,Number Of Transects Per Node,trans_count,8
+35,Number Of Samples Per Transect,transsample_count,5
+36,Distance Between Transect Samples (meters),transsample_distance,5
+37,Account For Emergent Veg Shading (True/False),emergent,FALSE
+38,Land Cover Data Input Type (Codes/Values),lcdatainput,Codes
+39,Canopy Data Type (LAI/CanopyCover),canopy_data,CanopyCover
+40,Land Cover Sample Method (point/zone),lcsampmethod,point
+41,Use Heat Source 8 Land Cover Methods (True/False),heatsource8,FALSE
